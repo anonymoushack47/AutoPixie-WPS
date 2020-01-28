@@ -1,3 +1,4 @@
+# Anonymous Hack47
 # AutoPixie-WPS
 # steps :-
   1) pkg update && pkg upgrade
@@ -6,3 +7,4 @@
   4) git clone https://github.com/anonymoushack47/AutoPixie-WPS
   5) cd AutoPixie-WPS
   6) python2 hack47.py
+# Provided by Kuljit Sah
