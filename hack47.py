@@ -70,6 +70,7 @@ def menu():
 		print"|  | ,'","       |   | :       :   '  |----" 
 		print"`                        ---Anonymous Hack47---   "
 		print"                         --- v1.0.1 --- "
+                Print"                         provided by Kuljit Sah   "
 
 
 		if hasLog == "Yes": print "           settings loaded."
